@@ -1,0 +1,20 @@
+.root {
+  .header {
+    background: #00007D;
+    color: white;
+    padding: 20px;
+  }
+  .section {
+    padding: 25px;
+
+    .right {
+      text-align: right;
+    }
+
+    .border {
+      border-bottom: 1px solid gray;
+      margin-bottom: 5px;
+      padding-bottom: 5px;
+    }
+  }
+}
